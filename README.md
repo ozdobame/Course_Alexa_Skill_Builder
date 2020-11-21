@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/ACloudGuru-Resources/Course_Alexa_Skill_Builder)
+
 # AWS Certified Alexa Skill Builder – Specialty
 
 This course from [A Cloud Guru](https://acloud.guru) prepares you for the [AWS Certified Alexa Skill Builder – Specialty](https://aws.amazon.com/certification/certified-alexa-skill-builder-specialty/) certification exam and also teaches you how to design and build engaging voice experiences for [Amazon Alexa](https://developer.amazon.com/alexa) using [Amazon Web Services (AWS)](https://aws.amazon.com/).
